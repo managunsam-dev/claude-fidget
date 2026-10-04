@@ -1,5 +1,5 @@
 # claude-fidget
-Claude yawns, sneezes and chews every ~30s while it works. Windows only (PowerShell).
+Claude yawns, sneezes and chews every ~30s while it works. Windows (PowerShell), macOS (afplay), Linux (paplay/aplay).
 
 Install (inside Claude Code):
 ```
