@@ -1,0 +1,7 @@
+{
+  "name": "claude-fidget",
+  "owner": { "name": "Sam" },
+  "plugins": [
+    { "name": "claude-fidget", "source": "./", "description": "Claude yawns, sneezes and chews every ~30s while working" }
+  ]
+}
